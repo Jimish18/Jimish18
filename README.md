@@ -9,6 +9,8 @@ C++ Programmer || FrontEnd Developer || DSA Learner ||
 * 🧠  I'm learning ReactJS
 * 🤝  I'm open to collaborating on FrontEnd Projects
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<br>
 
 
 ### Skills
@@ -31,7 +33,7 @@ C++ Programmer || FrontEnd Developer || DSA Learner ||
 
 <p align="left"> <a href="https://www.github.com/Jimish18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jimish18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jimish-prajapati-051177204/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
 ### Badges
 
