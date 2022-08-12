@@ -9,6 +9,8 @@ C++ Programmer || FrontEnd Developer || DSA Learner ||
 * 🧠  I'm learning ReactJS
 * 🤝  I'm open to collaborating on FrontEnd Projects
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 ### Skills
 
 <p align="left">
