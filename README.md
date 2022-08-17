@@ -37,7 +37,6 @@ C++ Programmer || FrontEnd Developer || DSA Learner ||
 <a href="https://www.github.com/Jimish18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
 <a href="http://www.instagram.com/jimish18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/jimish-prajapati-051177204/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.leetcode.com/jimish1806" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leet-code.svg" alt="jimish1806" height="32" width="32" /></a>
 </p>
 
 
