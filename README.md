@@ -34,9 +34,9 @@ C++ Programmer || FrontEnd Developer || DSA Learner ||
 ### Socials
 
 <p align="left"> 
-<a href="https://www.linkedin.com/in/jimish-prajapati-051177204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-patel-bb4868202" height="30" width="40" /></a>
-<a href="http://www.instagram.com/jimish18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush_patel_78" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jimish1806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush-patel-78" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jimish-prajapati-051177204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jimish-prajapati-051177204" height="30" width="40" /></a>
+<a href="http://www.instagram.com/jimish18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jimish18" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jimish1806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jimish1806" height="30" width="40" /></a>
 </p>
 
 
