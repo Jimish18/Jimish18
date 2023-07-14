@@ -1,7 +1,7 @@
 Hi 👋 My name is Jimish Prajapati
 =================================
 
-C++ Programmer || FrontEnd Developer || DSA Learner ||
+C++ Programmer || Full Stack Web Developer || DSA Learner ||
 ------------------------------------------------------
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
